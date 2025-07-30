@@ -18,6 +18,8 @@ Whether you're new to Python or revising for exams, this repo offers well-organi
 ---
 
 ## 📂 Repository Structure
+
+```bash
 coding-with-python/
 ├── notes/ # Markdown/text notes for each topic
 │ ├── basics.md
@@ -39,7 +41,7 @@ coding-with-python/
 
 
 > 📝 Note: This structure is a recommendation. Please adjust folders as per your current repo content.
-
+```
 ---
 
 ## 🧠 Topics Covered
