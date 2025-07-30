@@ -73,10 +73,10 @@ coding-with-python/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coding-with-python.git
+   git clone https://github.com/yourusername/CODING-WITH-PYTHON.git
 2. Navigate into it:
    ```bash
-   cd coding-with-python
+   cd CODING-WTH-PYTHON
 3. Explore the notes/ directory for concept explanations.
 
 ## 📃 License
